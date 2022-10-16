@@ -1,0 +1,4 @@
+Se necesita la extenseion 
+live sass compiler
+Live server
+ya que se utiliza Sass
